@@ -19,13 +19,13 @@ int main() {
     cout << "Digite a idade do estudante: ";
     cin >> aluno.idade;
 
-    cout << "Digite a média final do estudante: ";
+    cout << "Digite a media final do estudante: ";
     cin >> aluno.mediaFinal;
 
     cout << "\nDados do estudante:" << endl;
     cout << "Nome completo: " << aluno.nomeCompleto << endl;
     cout << "Idade: " << aluno.idade << endl;
-    cout << "Média final: " << aluno.mediaFinal << endl;
+    cout << "Media final: " << aluno.mediaFinal << endl;
 
     return 0;
 }
